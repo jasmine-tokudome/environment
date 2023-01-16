@@ -1,0 +1,3 @@
+[submodule "jasmine-tokudome/environment"]
+	path = jasmine-tokudome/environment
+	url = https://github.com/jasmine-tokudome/environment.git
